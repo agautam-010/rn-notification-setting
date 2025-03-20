@@ -18,6 +18,16 @@
     "notification",
     "plugin"
   ],
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "@react-native-firebase/messaging": ">=7.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.0",
+    "@types/react-native": "^0.60.0",
+    "typescript": "^3.7.0"
+  },
   "create-react-native-library": {
     "type": "module-legacy",
     "languages": "kotlin-swift",
