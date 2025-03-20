@@ -1,0 +1,26 @@
+{
+  "name": "rn-notification-setting",
+  "version": "1.0.0",
+  "description": "A React Native plugin to determine if notification setting is toggled",
+  "main": "src/index",
+  "author": "CodeRa1n",
+  "license": "MIT",
+  "homepage": "https://github.com/agautam-010/rn-notification-setting#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agautam-010/rn-notification-setting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agautam-010/rn-notification-setting/issues"
+  },
+  "keywords": [
+    "react-native",
+    "notification",
+    "plugin"
+  ],
+  "create-react-native-library": {
+    "type": "module-legacy",
+    "languages": "kotlin-swift",
+    "version": "0.38.3"
+  }
+}
